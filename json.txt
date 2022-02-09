@@ -1,0 +1,368 @@
+{
+    "AnatomicalSiteMention": [],
+    "MedicationMention": [
+        {
+            "begin": 100,
+            "end": 107,
+            "text": "VACCINE",
+            "polarity": 1,
+            "conceptAttributes": [
+                {
+                    "code": "398827000",
+                    "cui": "C0042210",
+                    "codingScheme": "SNOMEDCT_US",
+                    "tui": "T121"
+                },
+                {
+                    "code": "71181003",
+                    "cui": "C0042210",
+                    "codingScheme": "SNOMEDCT_US",
+                    "tui": "T129"
+                },
+                {
+                    "code": "71181003",
+                    "cui": "C0042210",
+                    "codingScheme": "SNOMEDCT_US",
+                    "tui": "T121"
+                },
+                {
+                    "code": "398827000",
+                    "cui": "C0042210",
+                    "codingScheme": "SNOMEDCT_US",
+                    "tui": "T129"
+                }
+            ]
+        },
+        {
+            "begin": 146,
+            "end": 153,
+            "text": "VACCINE",
+            "polarity": 1,
+            "conceptAttributes": [
+                {
+                    "code": "398827000",
+                    "cui": "C0042210",
+                    "codingScheme": "SNOMEDCT_US",
+                    "tui": "T121"
+                },
+                {
+                    "code": "71181003",
+                    "cui": "C0042210",
+                    "codingScheme": "SNOMEDCT_US",
+                    "tui": "T129"
+                },
+                {
+                    "code": "71181003",
+                    "cui": "C0042210",
+                    "codingScheme": "SNOMEDCT_US",
+                    "tui": "T121"
+                },
+                {
+                    "code": "398827000",
+                    "cui": "C0042210",
+                    "codingScheme": "SNOMEDCT_US",
+                    "tui": "T129"
+                }
+            ]
+        },
+        {
+            "begin": 174,
+            "end": 186,
+            "text": "PNEUMOCOCCAL",
+            "polarity": 1,
+            "conceptAttributes": [
+                {
+                    "code": "70447008",
+                    "cui": "C0305065",
+                    "codingScheme": "SNOMEDCT_US",
+                    "tui": "T121"
+                },
+                {
+                    "code": "70447008",
+                    "cui": "C0305065",
+                    "codingScheme": "SNOMEDCT_US",
+                    "tui": "T129"
+                },
+                {
+                    "code": "135642004",
+                    "cui": "C0305065",
+                    "codingScheme": "SNOMEDCT_US",
+                    "tui": "T121"
+                },
+                {
+                    "code": "135642004",
+                    "cui": "C0305065",
+                    "codingScheme": "SNOMEDCT_US",
+                    "tui": "T129"
+                },
+                {
+                    "code": "417011002",
+                    "cui": "C0305065",
+                    "codingScheme": "SNOMEDCT_US",
+                    "tui": "T121"
+                },
+                {
+                    "code": "417011002",
+                    "cui": "C0305065",
+                    "codingScheme": "SNOMEDCT_US",
+                    "tui": "T129"
+                }
+            ]
+        },
+        {
+            "begin": 195,
+            "end": 202,
+            "text": "VACCINE",
+            "polarity": 1,
+            "conceptAttributes": [
+                {
+                    "code": "398827000",
+                    "cui": "C0042210",
+                    "codingScheme": "SNOMEDCT_US",
+                    "tui": "T129"
+                },
+                {
+                    "code": "398827000",
+                    "cui": "C0042210",
+                    "codingScheme": "SNOMEDCT_US",
+                    "tui": "T121"
+                },
+                {
+                    "code": "71181003",
+                    "cui": "C0042210",
+                    "codingScheme": "SNOMEDCT_US",
+                    "tui": "T129"
+                },
+                {
+                    "code": "71181003",
+                    "cui": "C0042210",
+                    "codingScheme": "SNOMEDCT_US",
+                    "tui": "T121"
+                }
+            ]
+        },
+        {
+            "begin": 232,
+            "end": 238,
+            "text": "toxoid",
+            "polarity": 1,
+            "conceptAttributes": [
+                {
+                    "code": "30666008",
+                    "cui": "C0040555",
+                    "codingScheme": "SNOMEDCT_US",
+                    "tui": "T129"
+                },
+                {
+                    "code": "396411005",
+                    "cui": "C0040555",
+                    "codingScheme": "SNOMEDCT_US",
+                    "tui": "T121"
+                },
+                {
+                    "code": "396411005",
+                    "cui": "C0040555",
+                    "codingScheme": "SNOMEDCT_US",
+                    "tui": "T129"
+                },
+                {
+                    "code": "105949007",
+                    "cui": "C0040555",
+                    "codingScheme": "SNOMEDCT_US",
+                    "tui": "T121"
+                },
+                {
+                    "code": "105949007",
+                    "cui": "C0040555",
+                    "codingScheme": "SNOMEDCT_US",
+                    "tui": "T129"
+                },
+                {
+                    "code": "30666008",
+                    "cui": "C0040555",
+                    "codingScheme": "SNOMEDCT_US",
+                    "tui": "T121"
+                }
+            ]
+        }
+    ],
+    "DrugChangeStatusAnnotation": [],
+    "StrengthAnnotation": [],
+    "FractionStrengthAnnotation": [],
+    "FrequencyUnitAnnotation": [],
+    "DiseaseDisorderMention": [
+        {
+            "begin": 21,
+            "end": 45,
+            "text": "DIABETES MELLITUS TYPE 2",
+            "polarity": 1,
+            "conceptAttributes": [
+                {
+                    "code": "E11",
+                    "cui": "C0011860",
+                    "codingScheme": "ICD10AM",
+                    "tui": "T047"
+                },
+                {
+                    "code": "E11",
+                    "cui": "C0011860",
+                    "codingScheme": "ICD10CM",
+                    "tui": "T047"
+                },
+                {
+                    "code": "44054006",
+                    "cui": "C0011860",
+                    "codingScheme": "SNOMEDCT_US",
+                    "tui": "T047"
+                }
+            ]
+        },
+        {
+            "begin": 21,
+            "end": 38,
+            "text": "DIABETES MELLITUS",
+            "polarity": 1,
+            "conceptAttributes": [
+                {
+                    "code": "E08-E13",
+                    "cui": "C0011849",
+                    "codingScheme": "ICD10CM",
+                    "tui": "T047"
+                },
+                {
+                    "code": "E10-E14.9",
+                    "cui": "C0011849",
+                    "codingScheme": "ICD10AM",
+                    "tui": "T047"
+                },
+                {
+                    "code": "73211009",
+                    "cui": "C0011849",
+                    "codingScheme": "SNOMEDCT_US",
+                    "tui": "T047"
+                },
+                {
+                    "code": "E14",
+                    "cui": "C0011849",
+                    "codingScheme": "ICD10AM",
+                    "tui": "T047"
+                },
+                {
+                    "code": "250",
+                    "cui": "C0011849",
+                    "codingScheme": "ICD9CM",
+                    "tui": "T047"
+                }
+            ]
+        },
+        {
+            "begin": 21,
+            "end": 29,
+            "text": "DIABETES",
+            "polarity": 1,
+            "conceptAttributes": [
+                {
+                    "code": "E10-E14.9",
+                    "cui": "C0011849",
+                    "codingScheme": "ICD10AM",
+                    "tui": "T047"
+                },
+                {
+                    "code": "73211009",
+                    "cui": "C0011849",
+                    "codingScheme": "SNOMEDCT_US",
+                    "tui": "T047"
+                },
+                {
+                    "code": "E14",
+                    "cui": "C0011849",
+                    "codingScheme": "ICD10AM",
+                    "tui": "T047"
+                },
+                {
+                    "code": "250",
+                    "cui": "C0011849",
+                    "codingScheme": "ICD9CM",
+                    "tui": "T047"
+                },
+                {
+                    "code": "E08-E13",
+                    "cui": "C0011849",
+                    "codingScheme": "ICD10CM",
+                    "tui": "T047"
+                }
+            ]
+        },
+        {
+            "begin": 128,
+            "end": 137,
+            "text": "INFLUENZA",
+            "polarity": 1,
+            "conceptAttributes": [
+                {
+                    "code": "6142004",
+                    "cui": "C0021400",
+                    "codingScheme": "SNOMEDCT_US",
+                    "tui": "T047"
+                },
+                {
+                    "code": "487",
+                    "cui": "C0021400",
+                    "codingScheme": "ICD9CM",
+                    "tui": "T047"
+                }
+            ]
+        }
+    ],
+    "SignSymptomMention": [
+        {
+            "begin": 81,
+            "end": 90,
+            "text": "diagnosis",
+            "polarity": 1,
+            "conceptAttributes": [
+                {
+                    "code": "439401001",
+                    "cui": "C0011900",
+                    "codingScheme": "SNOMEDCT_US",
+                    "tui": "T033"
+                }
+            ]
+        }
+    ],
+    "DateAnnotation": [],
+    "RouteAnnotation": [],
+    "MeasurementAnnotation": [],
+    "ProcedureMention": [
+        {
+            "begin": 63,
+            "end": 70,
+            "text": "primary",
+            "polarity": 1,
+            "conceptAttributes": [
+                {
+                    "code": "261424001",
+                    "cui": "C0439631",
+                    "codingScheme": "SNOMEDCT_US",
+                    "tui": "T061"
+                }
+            ]
+        },
+        {
+            "begin": 223,
+            "end": 238,
+            "text": "unlisted toxoid",
+            "polarity": 1,
+            "conceptAttributes": [
+                {
+                    "code": "90749",
+                    "cui": "C5414866",
+                    "codingScheme": "CPT",
+                    "tui": "T061"
+                }
+            ]
+        }
+    ],
+    "TimeMention": [],
+    "StrengthUnitAnnotation": []
+}
